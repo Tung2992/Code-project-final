@@ -9,3 +9,8 @@ Các bước thực thi như sau:
 7. Xác định gốc phôi là giao của các đường line
 8. Lưu giá trị tọa độ pixel của từng gốc phôi
 9. Thực hiện các tác vụ còn lại (Chuyển tọa độ, Mở giao diện,...)
+
+Các vấn đề tồn tại của chương trình
+1. Chương trình viết còn thô sơ chưa khoa học
+2. Chương trình thực hiện chỉ dùng cho phôi phẳng và có 4 góc vuông
+3. Ngoài ra còn một số hạn chế về ý tưởng các bước thực thi cho ra kết quả không như mong đợi
